@@ -1,0 +1,28 @@
+{
+  "name": "docker-node-phantomjs",
+  "version": "1.0.0",
+  "description": "A Docker image that includes a recent version of both NodeJS and PhantomJS as a prebuilt binary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobdr/docker-node-phantomjs.git"
+  },
+  "keywords": [
+    "docker",
+    "phantomjs",
+    "nodejs",
+    "docker-phantomjs"
+  ],
+  "author": "Jacob Roberts <genericname009@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacobdr/docker-node-phantomjs/issues"
+  },
+  "homepage": "https://github.com/jacobdr/docker-node-phantomjs#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.5"
+  }
+}
