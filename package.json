@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/jacobdr/docker-node-phantomjs#readme",
   "dependencies": {
-    "phantomjs-prebuilt": "^2.1.5"
+    "phantomjs-prebuilt": "^2.1.12"
   }
 }
