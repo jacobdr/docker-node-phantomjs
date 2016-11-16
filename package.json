@@ -1,6 +1,6 @@
 {
   "name": "docker-node-phantomjs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A Docker image that includes a recent version of both NodeJS and PhantomJS as a prebuilt binary",
   "main": "index.js",
   "scripts": {
